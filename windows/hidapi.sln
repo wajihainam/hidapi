@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36107.64
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hidapi", "hidapi.vcxproj", "{A107C21C-418A-4697-BB10-20C3AA60E2E4}"
 EndProject
@@ -11,6 +11,8 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Debug|x64 = Debug|x64
+		Release_Static|Win32 = Release_Static|Win32
+		Release_Static|x64 = Release_Static|x64
 		Release|Win32 = Release|Win32
 		Release|x64 = Release|x64
 	EndGlobalSection
@@ -19,6 +21,10 @@ Global
 		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Debug|Win32.Build.0 = Debug|Win32
 		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Debug|x64.ActiveCfg = Debug|x64
 		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Debug|x64.Build.0 = Debug|x64
+		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Release_Static|Win32.ActiveCfg = Release_Static|Win32
+		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Release_Static|Win32.Build.0 = Release_Static|Win32
+		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Release_Static|x64.ActiveCfg = Release_Static|x64
+		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Release_Static|x64.Build.0 = Release_Static|x64
 		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Release|Win32.ActiveCfg = Release|Win32
 		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Release|Win32.Build.0 = Release|Win32
 		{A107C21C-418A-4697-BB10-20C3AA60E2E4}.Release|x64.ActiveCfg = Release|x64
@@ -27,6 +33,10 @@ Global
 		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Debug|Win32.Build.0 = Debug|Win32
 		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Debug|x64.ActiveCfg = Debug|x64
 		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Debug|x64.Build.0 = Debug|x64
+		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Release_Static|Win32.ActiveCfg = Release_Static|Win32
+		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Release_Static|Win32.Build.0 = Release_Static|Win32
+		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Release_Static|x64.ActiveCfg = Release_Static|x64
+		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Release_Static|x64.Build.0 = Release_Static|x64
 		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Release|Win32.ActiveCfg = Release|Win32
 		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Release|Win32.Build.0 = Release|Win32
 		{23E9FF6A-49D1-4993-B2B5-BBB992C6C712}.Release|x64.ActiveCfg = Release|x64

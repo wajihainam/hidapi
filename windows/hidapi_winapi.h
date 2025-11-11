@@ -30,7 +30,7 @@
 
 #include <guiddef.h>
 
-#include "hidapi.h"
+#include "../Source/hidapi.h"
 
 #ifdef __cplusplus
 extern "C" {

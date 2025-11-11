@@ -30,3 +30,32 @@ CMakeLists.txt.user
 
 # doxgen output
 doxygen/html/
+windows/Release_Static/hidtest.tlog/link.write.1.tlog
+windows/Release_Static/hidapi.Build.CppClean.log
+windows/Release_Static/hidapi.dll.recipe
+windows/Release_Static/hidapi.log
+windows/Release_Static/hidtest.Build.CppClean.log
+windows/Release_Static/hidtest.exe
+windows/Release_Static/hidtest.exe.recipe
+windows/Release_Static/hidtest.iobj
+windows/Release_Static/hidtest.ipdb
+windows/Release_Static/hidtest.log
+windows/Release_Static/hidtest.obj
+windows/Release_Static/hidapi.tlog/CL.command.1.tlog
+windows/Release_Static/hidapi.tlog/CL.read.1.tlog
+windows/Release_Static/hidapi.tlog/CL.write.1.tlog
+windows/Release_Static/hidapi.tlog/hidapi.lastbuildstate
+windows/Release_Static/hidapi.tlog/hidapi.write.1u.tlog
+windows/Release_Static/hidapi.tlog/link.command.1.tlog
+windows/Release_Static/hidapi.tlog/link.read.1.tlog
+windows/Release_Static/hidapi.tlog/link.write.1.tlog
+windows/Release_Static/hidapi.tlog/rc.command.1.tlog
+windows/Release_Static/hidapi.tlog/rc.read.1.tlog
+windows/Release_Static/hidapi.tlog/rc.write.1.tlog
+windows/Release_Static/hidtest.tlog/CL.command.1.tlog
+windows/Release_Static/hidtest.tlog/CL.read.1.tlog
+windows/Release_Static/hidtest.tlog/CL.write.1.tlog
+windows/Release_Static/hidtest.tlog/hidtest.lastbuildstate
+windows/Release_Static/hidtest.tlog/hidtest.write.1u.tlog
+windows/Release_Static/hidtest.tlog/link.command.1.tlog
+windows/Release_Static/hidtest.tlog/link.read.1.tlog
